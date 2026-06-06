@@ -1,4 +1,4 @@
-📋 Divisão de Tarefas — TP2 IBD: Banco de Preços em Saúde (BPS)
+📋 Divisão de Tarefas — TP2 IBD: Banco de Preços em Saúde
 👤 Andrei Sartão — Fundação e Modelagem
 Seções do notebook: 1, 2, 3, 4 e 5
 
