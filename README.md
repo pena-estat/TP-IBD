@@ -47,6 +47,7 @@
 **Responsabilidades:**
 - Consulta 8 — Junção 3+ tabelas: Ranking de fornecedores por estado
 - Consulta 9 — Agregação: Gasto total por instituição e ano
+- Preparação dos slides de apresentação (diagramas + consultas selecionadas + gráficos)
 
 **Entregas esperadas:**
 - Cada consulta com: explicação textual + comando SQL + resultado exibido + gráfico
@@ -59,7 +60,7 @@
 **Responsabilidades:**
 - Consulta 10 — Agregação: Produtos mais comprados por esfera administrativa
 - Seção 7 — Autoavaliação: coletar contribuição individual de cada membro e montar a seção
-
+-Revisao do trabalho antes da entrega.
 **Entregas esperadas:**
 - Consulta com explicação textual + SQL + resultado + gráfico
 - Seção 7 preenchida com autoavaliação de todos os 4 integrantes
@@ -72,7 +73,6 @@
 **Responsabilidades:**
 - Seção 4 — Diagrama ER (desenhar e anexar como imagem)
 - Seção 5 — Diagrama Relacional (desenhar e anexar como imagem)
-- Preparação dos slides de apresentação (diagramas + consultas selecionadas + gráficos)
 
 **Entregas esperadas:**
 - Imagens dos diagramas ER e Relacional prontas para inserção no notebook
